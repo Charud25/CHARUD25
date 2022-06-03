@@ -11,8 +11,7 @@
 </p>
 
 
-
-## <img src="https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif" width="30px">&nbsp;  About me
+  About me
 <ul>
   <li>📌 Sophmore at IGDTUW who loves to code .</li>
 <li>🛠 I’m currently focusing on Data Structures and Algorithms in C++</li>
