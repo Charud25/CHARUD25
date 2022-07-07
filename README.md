@@ -1,8 +1,8 @@
 
 <div align="center">
-<img src="https://i.ytimg.com/vi/bVOHeROLNyQ/maxresdefault.jpg" width="400" >
+<!--<img src="https://i.ytimg.com/vi/bVOHeROLNyQ/maxresdefault.jpg" width="400" >-->
 </div>
-<h2 align="center">I'm Charu Dwivedi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
+<h2 align="center"> Hello , I'm Charu Dwivedi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
 
 <p align="center">
   
